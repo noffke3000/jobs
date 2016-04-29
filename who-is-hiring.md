@@ -22,7 +22,12 @@ We're hiring! One of TEKsystems' major commercial clients is actively seeking ex
 - Huntsville, AL
 - Fulltime
 
-### Kernel Developer - Raytheon
+### Windows/Linux/VxWorks Kernel Developer - Raytheon
+We're looking for a few good developers of all skill levels: junior, intermediate, and advanced. Positions available in other locations, team is led from Huntsville, AL. 
 - Contact: @noffke
+- https://jobs.raytheon.com/job/huntsville/kernel-developer-al/4679/1984936
+- https://jobs.raytheon.com/job/huntsville/kernel-developer-al/4679/1984950
+- Huntsville, AL (San Antonio, Austin, Seattle, Virginia, Melborne)
+- Fulltime
 
 ## UI/UX
